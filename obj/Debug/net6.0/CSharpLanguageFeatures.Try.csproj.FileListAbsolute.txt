@@ -1,0 +1,5 @@
+C:\MySource\Libraries\CSharpLanguageFeatures.Try\obj\Debug\net6.0\CSharpLanguageFeatures.Try.csproj.AssemblyReference.cache
+C:\MySource\Libraries\CSharpLanguageFeatures.Try\obj\Debug\net6.0\CSharpLanguageFeatures.Try.GeneratedMSBuildEditorConfig.editorconfig
+C:\MySource\Libraries\CSharpLanguageFeatures.Try\obj\Debug\net6.0\CSharpLanguageFeatures.Try.AssemblyInfoInputs.cache
+C:\MySource\Libraries\CSharpLanguageFeatures.Try\obj\Debug\net6.0\CSharpLanguageFeatures.Try.AssemblyInfo.cs
+C:\MySource\Libraries\CSharpLanguageFeatures.Try\obj\Debug\net6.0\CSharpLanguageFeatures.Try.csproj.CoreCompileInputs.cache
